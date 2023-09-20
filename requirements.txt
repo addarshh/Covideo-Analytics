@@ -1,0 +1,5 @@
+numpy
+pandas
+face_recognition
+matplotlib
+opencv-python
